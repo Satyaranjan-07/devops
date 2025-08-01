@@ -1,2 +1,3 @@
 hey here it is my first push to git in ubantu terminal
 so lets see how it works
+this is a pull request and love you priyanka
